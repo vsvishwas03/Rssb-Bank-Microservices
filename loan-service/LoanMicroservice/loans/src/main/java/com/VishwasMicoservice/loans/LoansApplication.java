@@ -17,16 +17,16 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 				description = "RssbBank Loans microservice REST API Documentation",
 				version = "v1",
 				contact = @Contact(
-						name = "Madan Reddy",
-						email = "tutor@Rssbbytes.com"
+						name = "Madan Reddy"
+						
 				),
 				license = @License(
 						name = "Apache 2.0"
 				)
 		),
 		externalDocs = @ExternalDocumentation(
-				description = "RssbBank Loans microservice REST API Documentation",
-				url = "https://www.Rssbbytes.com/swagger-ui.html"
+				description = "RssbBank Loans microservice REST API Documentation"
+				
 		)
 )
 public class LoansApplication {
