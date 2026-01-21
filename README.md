@@ -4,7 +4,7 @@ A real-world banking backend system built using Spring Boot and Microservices ar
 
 ## Microservices
 - Account Service – Account creation & management
-- Customer Service – Customer profile management
+- Card Service – card profile management
 - Loan Service – Loan processing & eligibility
 
 ## Tech Stack
